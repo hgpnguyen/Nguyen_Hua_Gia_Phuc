@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "amount": 100,
+        "price": 200,
+        "category": "electric"
+    },
+    {
+        "id": 2,
+        "name": "Char",
+        "amount": 65,
+        "price": 44,
+        "category": "furniture"
+    },
+    {
+        "id": 3,
+        "name": "Table",
+        "amount": 45,
+        "price": 70,
+        "category": "furniture"
+    },
+    {
+        "id": 4,
+        "name": "Guitar",
+        "amount": 10,
+        "price": 150,
+        "category": "Instrument"
+    },
+    {
+        "id": 5,
+        "name": "Flower Pot",
+        "amount": 20,
+        "price": 30,
+        "category": "Plant"
+    },
+    {
+        "id": 6,
+        "name": "Computer Mouse",
+        "amount": 45,
+        "price": 15,
+        "category": "electric"
+    },
+    {
+        "id": 7,
+        "name": "PC",
+        "amount": 15,
+        "price": 15000,
+        "category": "electric"
+    },
+    {
+        "id": 8,
+        "name": "Car",
+        "amount": 5,
+        "price": 350000,
+        "category": "Vehicle"
+    }
+]
